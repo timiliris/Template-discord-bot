@@ -1,0 +1,113 @@
+{
+  "invite": {
+    "copy_discord_link": "📥  Copy the discord link!",
+    "get_discord_link": "🔗 Get a link of the discord server!",
+    "click_to_get_discord_link": "🔗 Click here to get a link of the discord server!",
+    "the_link_is": "🔗 The link is: ",
+    "please_copy_manually": "📥 Please copy the link manually!"
+  },
+  "lang": {
+    "language_set": "🌐 Your language has been set to: 🇬🇧"
+  },
+  "leaderboard": {
+    "no_users_found": "🚫 No users found in the leaderboard.",
+    "leaderboard_title": "🏆 **Leaderboard**:",
+    "cmd_error": "An error occurred while executing the command."
+  },
+  "scramble": {
+    "prompt": "Unscramble this word: **{word}**",
+    "correct": "Congratulations! You guessed the word correctly! 🎉",
+    "incorrect": "Incorrect answer. You have {attempts} attempts left. Try again!",
+    "timeout": "Time's up! You've used one attempt.",
+    "game_over": "Sorry, the word was **{word}**. Better luck next time!",
+    "you_have_30s_to_guess": "You have **30 seconds** to guess this word!",
+    "correct_guess": "You guessed correctly!",
+    "good_job": "Good job!",
+    "incorrect_guess": "You guessed incorrectly. Try again!",
+    "you_have": "You have",
+    "attempts_left": "attempts left",
+    "times_up": " Time’s Up!",
+    "attempts_used": " attempts used : ",
+    "gameOver": "Game Over!",
+    "better_luck_next_time": "Better luck next time!"
+  },
+  "help": {
+    "list_of_commands": "List of commands",
+    "cmd": "Display the list of commands",
+    "get_discord_link": " Get a link to the Discord server!",
+    "game": " Get the games available!",
+    "help": " Display the list of commands",
+    "if_you_have_any_questions": "❓ If you have any questions, please contact the support team!"
+  },
+
+  "trivia": {
+    "congrats": "🎉 Congratulations!",
+    "good_answer": "✅ You got it right!",
+    "bad_answer": "❌ You got it wrong!",
+    "little_story": "🎯 Little Story: ",
+    "discover_more": "🔎 Discover more!",
+    "times_up": "🔔 Times up!",
+    "click_on_the_wiki_link": "🔎 Click on the wiki link!",
+    "the_good_answer": "✅ The good answer is: ",
+    "trivia_questions":   "🎯 Trivia Questions: ",
+    "no_questions":  "❌ Sorry, there are no questions available at the moment!",
+    "error_while_fetching": "❌ Error while fetching questions!",
+    "try_later": "❌ Try later!",
+    "have_win_x_points": "🎉 You have won 10 points ! you have now :  ",
+    "points": "points!",
+    "select_answer": "🎯 Select the answer you want to give: ",
+    "thank_you": "🎉 Thank you for playing!"
+  },
+  "duel": {
+    "start_duel": "🎮 Start a duel!",
+    "stop_duel": "🛑 Stop the duel!",
+    "cannot_duel_yourself": "❌ You can't challenge yourself!",
+    "duel_started": "🔥 The duel has started!",
+    "duel_stopped": "🛑 The duel has been stopped!",
+    "duel_not_started": "❌ The duel hasn't started!",
+    "duel_already_started": "⚠️ The duel is already in progress!",
+    "duel_already_stopped": "⚠️ The duel has already been stopped!",
+    "duel_in_progress": "⚠️ A duel is already in progress!",
+    "duel_accepted": "✅ The duel has been accepted!",
+    "duel_declined": "❌ The duel has been declined!",
+    "declined_maybe_next_time": "❌ has declined the duel. Maybe next time!",
+    "will_start_soon": "has accepted the duel! The countdown will start soon.",
+    "challenged_by": "🎯 You have been challenged by:",
+    "challenger": "Challenger",
+    "challenged": "Challenged",
+    "accept:": "✅ Accept",
+    "decline:": "❌ Decline",
+    "time_up": "⏳ Time's up! ",
+    "did_not_respond": " did not respond. The duel has been canceled.",
+    "duel_countdown": "**🎯 Duel Countdown! 🎯**\nThe duel will start in ",
+    "seconds_get_ready": " seconds. Get ready!",
+    "go_shoot": "**🚀 Go! 🚀**\nType `shoot` to win the duel!",
+    "shoot_word": "shoot",
+    "congrats": "🎉 Congratulations! You won the duel!",
+    "won_against": "! You won the duel against",
+    "time_up_no_one_won": "⏳ No one won the duel. The duel has been canceled."
+  },
+  "guessNumber": {
+    "title": "🔢 Guess the number!",
+    "not_a_number": "❌ That is not a number!",
+    "too_high": "⬆️ Too high! Try again.",
+    "too_low": "⬇️ Too low! Try again.",
+    "correct": "✅ You guessed correctly! The number was",
+    "im_thinking_of": "🤔 I'm thinking of a number between ",
+    "and": " and ",
+    "you_have": "⏳ You have ",
+    "attempts_to_guess": " attempts to guess it. \n\n Good luck! 🎯",
+    "attempts_left": " attempts left.",
+    "congrats": "🎉 Congratulations! You guessed the number correctly. The number was ",
+    "in": " in ",
+    "attempts": " attempts.",
+    "sorry_you_have_used_all_of_your_attempts": "😔 Sorry, you have used all of your attempts. The number was ",
+    "better_luck_next_time": "🔁 Better luck next time.",
+    "times_up_the_number_was": "⌛ Times up! The number was : ",
+    "thanks_for_playing": "🙏 Thanks for playing!"
+  },
+
+  "cmd_error": "⚠️ There was an error trying to execute that command!",
+  "greeting": "👋 Hello!",
+  "farewell": "👋 Goodbye!"
+}
